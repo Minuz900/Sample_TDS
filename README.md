@@ -3,8 +3,8 @@
 ## :jack_o_lantern: Sample_TDS
 
 - 'TDS - 타워 데스티니 서바이브'의 몬스터 움직임을 참고하여 제작했습니다.
-    - https://play.google.com/store/apps/details?id=com.playstrom.hero.tower&hl=ko
-    - https://apps.apple.com/kr/app/tds-타워-데스티니-서바이브/id6480174499
+    - [Android](https://play.google.com/store/apps/details?id=com.playstrom.hero.tower&hl=ko)
+    - [iOS](https://apps.apple.com/kr/app/tds-타워-데스티니-서바이브/id6480174499)
  
 - [Unity 2022.3.42f1] 버전으로 제작 되었습니다.
 </br>
