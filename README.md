@@ -48,6 +48,7 @@
 
 - Object Pooling System
 - Batch Optimization
+- ScriptableObject
 </br>
 
 ---
