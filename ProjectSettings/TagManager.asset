@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hero
+  - HeroFront
+  - Ground
+  - Zombie
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Box
+  - Zombie_Row1
+  - Zombie_Row2
+  - Zombie_Row3
+  - Ground_Row1
+  - Ground_Row2
+  - Ground_Row3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Zombie3
+    uniqueID: 963018737
+    locked: 0
+  - name: Zombie2
+    uniqueID: 2194437005
+    locked: 0
+  - name: Zombie
+    uniqueID: 2164943917
+    locked: 0
+  - name: Box
+    uniqueID: 2052639699
+    locked: 0
